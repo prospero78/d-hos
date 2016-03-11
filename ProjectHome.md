@@ -1,0 +1,5 @@
+Dark-Hat Operating System® is a free operating system, developed and maintained by Dhaus McRod as Free Software. The OS writted in PASCAL with FPC compiler. Unusually, that environment looks and acts like a complete operating system.
+
+Dark-Hat Operating System can run 'native' on various x86 platforms but also 'hosted', under an existing operating system (including FreeBSD, Irix, Linux, MacOS X, Plan 9, and Solaris), again on various processor types.
+
+This Google Code project includes source for the basic applications, Dark-Hat Operating System itself (hosted and native), all supporting software, including the native compiler suite, essential executables and supporting files. This repository EXCLUDES a few non-Free components (notably the B&H fonts), which must be obtained (once) from the primary Dark-Hat Operating System distribution.
